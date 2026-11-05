@@ -1,0 +1,17 @@
+# Dados locais
+Backups/
+Logs/
+Reports/
+Instaladores/Office/Office2013/*
+Instaladores/Office/Office2016/*
+!Instaladores/Office/Office2013/.gitkeep
+!Instaladores/Office/Office2016/.gitkeep
+
+# PowerShell / build
+*.log
+*.tmp
+*.bak
+*.user
+bin/
+obj/
+.vs/
