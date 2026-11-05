@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "profiles": [
+    {
+      "id": "padrao",
+      "name": "Padrão",
+      "description": "Ajustes conservadores para uso geral."
+    },
+    {
+      "id": "gamer",
+      "name": "Gamer",
+      "description": "Ajustes orientados a jogos, sujeitos à validação de compatibilidade."
+    },
+    {
+      "id": "corporativo",
+      "name": "Corporativo",
+      "description": "Preserva recursos de rede, domínio, impressão e gerenciamento."
+    },
+    {
+      "id": "extremo",
+      "name": "Extremo",
+      "description": "Perfil avançado; cada alteração exigirá análise e confirmação explícita."
+    }
+  ],
+  "tweaks": []
+}
