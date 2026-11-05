@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "applications": [
+    {
+      "id": "winrar",
+      "name": "WinRAR",
+      "wingetId": "RARLab.WinRAR",
+      "matchPattern": "WinRAR",
+      "enabledByDefault": true
+    },
+    {
+      "id": "temurin8-jre-x64",
+      "name": "Eclipse Temurin 8 JRE x64",
+      "wingetId": "EclipseAdoptium.Temurin.8.JRE",
+      "matchPattern": "Eclipse Temurin|Adoptium|Java 8",
+      "enabledByDefault": true
+    },
+    {
+      "id": "firefox",
+      "name": "Mozilla Firefox",
+      "wingetId": "Mozilla.Firefox",
+      "matchPattern": "Mozilla Firefox",
+      "enabledByDefault": true
+    },
+    {
+      "id": "acrobat-reader",
+      "name": "Adobe Acrobat Reader",
+      "wingetId": "Adobe.Acrobat.Reader.64-bit",
+      "matchPattern": "Adobe Acrobat|Acrobat Reader",
+      "enabledByDefault": true
+    },
+    {
+      "id": "anydesk",
+      "name": "AnyDesk",
+      "wingetId": "AnyDesk.AnyDesk",
+      "matchPattern": "AnyDesk",
+      "enabledByDefault": true
+    },
+    {
+      "id": "chrome",
+      "name": "Google Chrome",
+      "wingetId": "Google.Chrome",
+      "matchPattern": "Google Chrome",
+      "enabledByDefault": true
+    }
+  ]
+}
